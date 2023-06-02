@@ -72,7 +72,7 @@ void loop() {
        }
      c = '0';
      }
-     if (c == '4') {
+     if (c == '5') {
      for (pos = 0; pos <= 50; pos += 1) { // goes from 0 degrees to 180 degrees
         // in steps of 1 degree
        myservo3.write(pos);              // tell servo to go to position in variable 'pos'
