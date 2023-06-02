@@ -26,6 +26,5 @@ Fonctionnement :
 Des servomoteurs vont ouvrir les trapes de plusieur boitier de stockage lorsqu'on le souhaite pour relacher de la nourriture,
 Le ds18b20 permet de récupérer la température de l'eau en temps réel.
 Tout est contrôlable depuis une application faite sur app inventor, nous permettant donc de possiblement programmer les jours où l'on souhaite nourrir.
-
-
-
+![interface appinvenotr](https://github.com/Luvlp/aquarium-intelligent-2000/assets/114592577/31d41614-5841-4e7b-a67c-1cc58027007c)
+![block app inv](https://github.com/Luvlp/aquarium-intelligent-2000/assets/114592577/926c0d4c-d874-4c47-9555-fe96bda72f87)
